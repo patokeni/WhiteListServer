@@ -1,0 +1,3 @@
+socketPath: '../services/mirai-server.socket'
+robot: 3608488711
+robotPassword: ''
